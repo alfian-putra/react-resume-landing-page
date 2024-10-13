@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-resume-landing-page/static/css/main.f1b4eceb.css",
-    "main.js": "/react-resume-landing-page/static/js/main.48aefd40.js",
+    "main.css": "/react-resume-landing-page/static/css/main.b5a88a90.css",
+    "main.js": "/react-resume-landing-page/static/js/main.1ee39c78.js",
     "static/media/ava3.jpg": "/react-resume-landing-page/static/media/ava3.3f63023b3dfc821ccb5f.jpg",
     "static/media/vsga.jpg": "/react-resume-landing-page/static/media/vsga.5a1743c0b28e0d0d0a7f.jpg",
     "static/media/brand-icons.svg": "/react-resume-landing-page/static/media/brand-icons.6729d29753e000c17489.svg",
@@ -35,11 +35,11 @@
     "static/media/prometheus.svg": "/react-resume-landing-page/static/media/prometheus.3934cfbc3603f5af5f0ebc4cc76b585d.svg",
     "index.html": "/react-resume-landing-page/index.html",
     "static/media/terraform.svg": "/react-resume-landing-page/static/media/terraform.21d15a7b8a945908ecb74df1851012ea.svg",
-    "main.f1b4eceb.css.map": "/react-resume-landing-page/static/css/main.f1b4eceb.css.map",
-    "main.48aefd40.js.map": "/react-resume-landing-page/static/js/main.48aefd40.js.map"
+    "main.b5a88a90.css.map": "/react-resume-landing-page/static/css/main.b5a88a90.css.map",
+    "main.1ee39c78.js.map": "/react-resume-landing-page/static/js/main.1ee39c78.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1b4eceb.css",
-    "static/js/main.48aefd40.js"
+    "static/css/main.b5a88a90.css",
+    "static/js/main.1ee39c78.js"
   ]
 }
