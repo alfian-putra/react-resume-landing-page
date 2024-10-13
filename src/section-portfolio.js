@@ -74,7 +74,6 @@ function Portfolio() {
       [LogoPrometheus, "Node Exporter, Prometheus, & Grafana", "https://github.com/alfian-putra/grafana-prometheus-node_exporter/blob/main/README.md"],
       [LogoReact, "React JS Resume Landing Page", "https://github.com/alfian-putra/react-resume-landing-page"],
       [LogoAirflow, "Big Data : Service Installation & Data Orchestration", "https://github.com/alfian-putra/big-data/tree/main"],
-      [LogoTerra, "Collection of Terraform | OpenTofu project", "https://github.com/alfian-putra/opentofu"]
   ]
 
   //DROPDOWN LIST
