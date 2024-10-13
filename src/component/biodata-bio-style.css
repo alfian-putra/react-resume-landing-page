@@ -1,0 +1,40 @@
+#button {
+    border-width : 2px;
+    background-color :  #7b42bcff;
+    cursor: pointer;
+    outline: none;
+
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 40px;
+    width: 100px;
+    font-size: 16px;
+    outline: none;
+    display: grid;
+    text-align: center;
+    align-items: center;
+}
+
+#bStyle {
+    color: white;
+}
+
+#button:hover {
+    color : #7b42bcff;
+    border-width : 2px;
+    border-color : #7b42bcff;
+    background-color :  white;
+    outline: 2px #7b42bcff solid;
+
+    /*box-shadow: 0 5px 10px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    */
+}
+
+#button:hover > #bStyle {
+    color : #7b42bcff;
+}
+
+#buttonSection {
+    display: flex;
+}
